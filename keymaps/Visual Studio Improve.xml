@@ -1,0 +1,30 @@
+<keymap version="1" name="Visual Studio Improve" parent="Visual Studio">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="o" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="m" />
+  </action>
+  <action id="CompileDirty">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="p" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="l" />
+  </action>
+  <action id="Move" />
+  <action id="Resume" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl s" />
+  </action>
+  <action id="ScrollTreeToCenter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+</keymap>
